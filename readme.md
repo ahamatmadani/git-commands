@@ -1,10 +1,8 @@
 # Commands git
-
 -liste de commandes git
 
 ## git init
 -permet d'initialiser un repertoire 
-
 
 ## git add
 -permet d'ajouter un fichier dans le stagging
@@ -22,10 +20,11 @@
 
 ## git log
 -permet de lister les modifications en local
+
 ## git branch
-permet de creer une branche`
+-permet de creer une branche`
 
 ## git checkout
-permet de passer d'une branche a une autre 
-permet aussi de se deplaver d'une branche a une autre 
-avec l'option -b checkout de creer la banesi elle n'existe pas 
+-permet de passer d'une branche a une autre 
+-permet aussi de se deplaver d'une branche a une autre 
+-avec l'option -b checkout de creer la banesi elle n'existe pas 
