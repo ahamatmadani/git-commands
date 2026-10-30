@@ -20,4 +20,5 @@ permet de pousser les modifications en ligne
 permet de verifier le status du repertoire
 permet de lister les modifications a traiter
 
- 
+## git log
+permet de lister les modifications en local
