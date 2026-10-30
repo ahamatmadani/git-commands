@@ -28,3 +28,6 @@
 -permet de passer d'une branche a une autre 
 -permet aussi de se deplaver d'une branche a une autre 
 -avec l'option -b checkout de creer la banesi elle n'existe pas 
+
+## git pull
+permet de recuperer les modifications distantes
