@@ -30,4 +30,4 @@
 -avec l'option -b checkout de creer la banesi elle n'existe pas 
 
 ## git pull
-permet de recuperer les modifications distantes
+-permet de recuperer les modifications distantes
